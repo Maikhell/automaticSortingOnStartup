@@ -1,4 +1,4 @@
-# AutomaticSortingOnStartup By John Michael Camara
+# AutomaticFilesSortingOnStartup By John Michael Camara
 
 ## Introduction
 This script enables users to **automatically sort downloaded files** based on their file types every time they download something in their browser. The script **runs on startup and continuously operates in the background**. It is executed using Windows PowerShell, providing a seamless and efficient way to organize downloaded files without manual intervention.
