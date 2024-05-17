@@ -1,0 +1,50 @@
+2024-05-18 03:45:33 - Script started.
+2024-05-18 03:45:34 - File system watcher started.
+2024-05-18 03:45:54 - Action triggered.
+2024-05-18 03:45:55 - Moving *.png files to C:\Users\John PC\Desktop\Downloaded PNG's.
+2024-05-18 03:45:55 - Moving *.jpg files to C:\Users\John PC\Desktop\Downloaded PNG's.
+2024-05-18 03:45:55 - Moving *.jpeg files to C:\Users\John PC\Desktop\Downloaded PNG's.
+2024-05-18 03:45:55 - Moving *.gif files to C:\Users\John PC\Desktop\Downloaded PNG's.
+2024-05-18 03:45:55 - Moving *.bmp files to C:\Users\John PC\Desktop\Downloaded PNG's.
+2024-05-18 03:45:55 - Moving *.svg files to C:\Users\John PC\Desktop\Downloaded PNG's\SVG's Converted.
+2024-05-18 03:45:55 - Moving *.doc* files to C:\Users\John PC\Documents.
+2024-05-18 03:45:55 - Moving *.pdf files to C:\Users\John PC\Documents.
+2024-05-18 03:45:55 - Moving *.txt files to C:\Users\John PC\Documents.
+2024-05-18 03:45:55 - Moving *.xlsx files to C:\Users\John PC\Documents.
+2024-05-18 03:45:55 - Moving *.ppt* files to C:\Users\John PC\Documents.
+2024-05-18 03:45:55 - Moving *.csv files to C:\Users\John PC\Documents.
+2024-05-18 03:45:55 - Moving *.zip files to C:\Users\John PC\Desktop\Extraction.
+2024-05-18 03:45:55 - Moving *.rar files to C:\Users\John PC\Desktop\Extraction.
+2024-05-18 03:45:55 - Moving *.7z files to C:\Users\John PC\Desktop\Extraction.
+2024-05-18 03:45:55 - Moving *.mp3 files to C:\Users\John PC\Desktop\Music.
+2024-05-18 03:45:55 - Moving *.mp4 files to C:\Users\John PC\Videos.
+2024-05-18 03:45:55 - Moving *.mov files to C:\Users\John PC\Videos.
+2024-05-18 03:45:55 - Moving *.avi files to C:\Users\John PC\Videos.
+2024-05-18 03:45:55 - Moving *.wmv files to C:\Users\John PC\Videos.
+2024-05-18 03:45:55 - Moving *.mkv files to C:\Users\John PC\Videos.
+2024-05-18 03:45:55 - Moving *.webm files to C:\Users\John PC\Videos.
+2024-05-18 03:45:55 - Action completed.
+2024-05-18 03:45:55 - Action triggered.
+2024-05-18 03:45:55 - Moving *.png files to C:\Users\John PC\Desktop\Downloaded PNG's.
+2024-05-18 03:45:55 - Moving *.jpg files to C:\Users\John PC\Desktop\Downloaded PNG's.
+2024-05-18 03:45:55 - Moving *.jpeg files to C:\Users\John PC\Desktop\Downloaded PNG's.
+2024-05-18 03:45:55 - Moving *.gif files to C:\Users\John PC\Desktop\Downloaded PNG's.
+2024-05-18 03:45:55 - Moving *.bmp files to C:\Users\John PC\Desktop\Downloaded PNG's.
+2024-05-18 03:45:55 - Moving *.svg files to C:\Users\John PC\Desktop\Downloaded PNG's\SVG's Converted.
+2024-05-18 03:45:55 - Moving *.doc* files to C:\Users\John PC\Documents.
+2024-05-18 03:45:55 - Moving *.pdf files to C:\Users\John PC\Documents.
+2024-05-18 03:45:55 - Moving *.txt files to C:\Users\John PC\Documents.
+2024-05-18 03:45:55 - Moving *.xlsx files to C:\Users\John PC\Documents.
+2024-05-18 03:45:55 - Moving *.ppt* files to C:\Users\John PC\Documents.
+2024-05-18 03:45:55 - Moving *.csv files to C:\Users\John PC\Documents.
+2024-05-18 03:45:55 - Moving *.zip files to C:\Users\John PC\Desktop\Extraction.
+2024-05-18 03:45:55 - Moving *.rar files to C:\Users\John PC\Desktop\Extraction.
+2024-05-18 03:45:55 - Moving *.7z files to C:\Users\John PC\Desktop\Extraction.
+2024-05-18 03:45:55 - Moving *.mp3 files to C:\Users\John PC\Desktop\Music.
+2024-05-18 03:45:55 - Moving *.mp4 files to C:\Users\John PC\Videos.
+2024-05-18 03:45:55 - Moving *.mov files to C:\Users\John PC\Videos.
+2024-05-18 03:45:55 - Moving *.avi files to C:\Users\John PC\Videos.
+2024-05-18 03:45:55 - Moving *.wmv files to C:\Users\John PC\Videos.
+2024-05-18 03:45:55 - Moving *.mkv files to C:\Users\John PC\Videos.
+2024-05-18 03:45:55 - Moving *.webm files to C:\Users\John PC\Videos.
+2024-05-18 03:45:55 - Action completed.
