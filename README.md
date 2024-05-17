@@ -28,6 +28,8 @@ Download my Files First and Extract it in your specified folder
 # Step 1: Open PowerShell as Administrator
 - Search for **"PowerShell"** in the Start Menu.
 - Right-click on "Windows PowerShell" and select **"Run as administrator"**.
+- Input the Following Command ```Set-ExecutionPolicy RemoteSigned``` and hit Enter
+- Press **Y** and Hit Enter.
 # Step 2: Navigate to the Script Files
 - In PowerShell, change directory to where your script files are located.
 - Use the   ```cd``` command with single quotation marks around the path.
